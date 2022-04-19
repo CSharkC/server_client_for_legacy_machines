@@ -2,8 +2,8 @@
 303COM project code
 
 Python Libaries Required:
-psutil
-socket
-json
-os
-time
+psutil,
+socket,
+json,
+os,
+time,
